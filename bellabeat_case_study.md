@@ -17,7 +17,7 @@ kirstenagoff@gmail.com. Please feel free to connect with me on
 view more of my work in my
 [**Portfolio**](https://github.com/kirstengoff/kirstengoff.github.io).
 
-You can also view this document as an html file
+You can also view this document as an html page
 [**here**](https://a9ee73628c1b4ebc936b7f375ca13f19.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fscripts%2Fproduct%2Fbellabeat_case_study.html).
 
 In this case study I will perform the real-world tasks of a data analyst
