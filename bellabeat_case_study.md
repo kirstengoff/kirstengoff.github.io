@@ -15,7 +15,9 @@ Welcome! My name is Kirsten Goff and I can be contacted at
 kirstenagoff@gmail.com. Please feel free to connect with me on
 [**Linkedin**](https://www.linkedin.com/in/kirsten-goff-research/) and
 view more of my work in my
-[**Portfolio**](kirstengoff/kirstengoff.github.io).
+[**Portfolio**](kirstengoff/kirstengoff.github.io). 
+
+You can also view this document as an html file [here](file:///C:/Users/kirst/Documents/portfolio/case%20study%202%20-%20bellabeat/product/bellabeat_case_study.html).
 
 In this case study I will perform the real-world tasks of a data analyst
 to answer key business questions for the company Bellabeat. I will use R
